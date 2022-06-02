@@ -1,3 +1,6 @@
+// 이름: 김나영
+// 학번: 2021041059
+
 #pragma once
 #include <iostream>
 #include <string>
